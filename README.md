@@ -1,2 +1,1 @@
-# design
-Design assets and documents for codeanit.com
+# codeanit.com Product Management 
